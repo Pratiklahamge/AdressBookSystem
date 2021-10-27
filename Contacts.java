@@ -1,5 +1,6 @@
 package com.briglabz;
 
+
 public class Contacts {
 	 private String firstName, lastName, address, city, state, email;
 	    private int zip;
